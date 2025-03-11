@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import { MdDelete } from 'react-icons/md';
 import { FaEdit } from 'react-icons/fa';
 import ThreeJSBackground from './components/ThreeJSBackground';
